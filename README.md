@@ -1,4 +1,4 @@
-# ❤️ ECG3Click Arduino Library Overview
+# ECG3Click Arduino Library Overview
 
 This library provides a lightweight and reliable way to interface the MIKROE ECG 3 Click board with Arduino via SPI.
 At the time of development, no existing Arduino library supported this board — so it was written to simplify access to real ECG data from the MAX30003 analog front-end.
