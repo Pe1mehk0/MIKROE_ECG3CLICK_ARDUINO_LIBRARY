@@ -7,7 +7,7 @@
 ECG3Click ecg(CS_PIN);
 
 // We use 2ms to reliably read a new sample each iteration.
-const int TARGET_DELAY_MS = 2; 
+const int TARGET_DELAY_MS = 8; 
 
 void setup() {
     // Start serial communication to print data
